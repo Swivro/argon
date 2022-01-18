@@ -1,8 +1,8 @@
 {
-  "name": "skye",
-  "version": "6.4.1",
+  "name": "argon",
+  "version": "6.4.2",
   "sideEffects": false,
-  "description": "Extensible, fast and innovative web browser with Innatical UI.",
+  "description": "Experience a modern privacy-respecting web browser, using ElectronJS.",
   "keywords": [
     "web-browser",
     "material",
@@ -11,15 +11,15 @@
     "mobx",
     "styled-components"
   ],
-  "homepage": "https://github.com/skyebrowser/skye#readme",
+  "homepage": "https://swivro.net/argon",
   "main": "build/main.bundle.js",
-  "author": "Innatical LLC <contact@innatical.com>",
+  "author": "Swivro <queries@swivro.net>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skyebrowser/skye.git"
+    "url": "git+https://github.com/Swivro/argon.git"
   },
   "bugs": {
-    "url": "https://github.com/skyebrowser/skye/issues"
+    "url": "https://github.com/Swivro/argon/issues"
   },
   "scripts": {
     "dev-renderer": "cross-env DEV=1 webpack serve --config webpack.config.renderer.js",
