@@ -13,7 +13,7 @@ import { Application } from './application';
 
 export const isNightly = app.name === 'skye-nightly';
 
-app.name = isNightly ? 'Skye Nightly' : 'Skye';
+app.name = isNightly ? 'Argon Nightly' : 'Argon';
 
 (process.env as any)['ELECTRON_DISABLE_SECURITY_WARNINGS'] = true;
 
