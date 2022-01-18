@@ -36,7 +36,7 @@ export class Store {
     let isNewUrl = false;
 
     if (!url || url == '') {
-      url = 'https://file.coffee/u/y970mT9Cg5NkPg.png';
+      url = 'https://file.coffee/u/PkvsBQEcNgez2R.png';
       isNewUrl = true;
     }
   }
