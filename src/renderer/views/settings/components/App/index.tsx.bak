@@ -271,7 +271,7 @@ export default observer(() => {
             subSections={['search-engines']}
             icon={ICON_SEARCH}
           >
-            Address bar
+            Search Engines
           </MenuItem>
           <MenuItem section="downloads" icon={ICON_DOWNLOAD}>
             Downloads

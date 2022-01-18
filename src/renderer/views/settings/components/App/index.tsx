@@ -264,7 +264,7 @@ export default observer(() => {
             </MenuItem>
           )}
           <MenuItem section="startup" icon={ICON_POWER}>
-            On startup
+            Startup Settings
           </MenuItem>
           <MenuItem
             section="address-bar"
