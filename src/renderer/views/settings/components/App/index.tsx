@@ -274,7 +274,7 @@ export default observer(() => {
             Search Engines
           </MenuItem>
           <MenuItem section="downloads" icon={ICON_DOWNLOAD}>
-            Download Settings
+            Downloads
           </MenuItem>
           <MenuItem section="privacy" icon={ICON_SHIELD}>
             Privacy
