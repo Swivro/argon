@@ -1,6 +1,6 @@
 {
   "appId": "com.innatical.skye",
-  "productName": "Skye",
+  "productName": "Argon Browser",
   "nsis": {
     "include": "static/installer.nsh"
   },
@@ -23,9 +23,9 @@
   },
   "linux": {
     "category": "Network",
-    "executableName": "skye",
+    "executableName": "argon",
     "desktop": {
-      "Name": "Innatical Skye",
+      "Name": "Argon Browser",
       "Comment": "Browse the Web",
       "GenericName": "Internet",
       "Icon": "/usr/share/icons/hicolor/0x0/apps/skye.png",
@@ -80,14 +80,14 @@
   "fileAssociations": [
     {
       "name": "Document",
-      "description": "Skye",
+      "description": "Argon",
       "role": "Viewer",
       "ext": "html"
     }
   ],
   "protocols": [
     {
-      "name": "Skye",
+      "name": "skye",
       "role": "Viewer",
       "schemes": ["http", "https"]
     }
