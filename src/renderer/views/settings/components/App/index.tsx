@@ -280,7 +280,7 @@ export default observer(() => {
             Privacy
           </MenuItem>
           <MenuItem section="account" icon={ICON_PERSON}>
-            Innatical ID
+            Sync Data
           </MenuItem>
           {/* <MenuItem section="permissions">Site permissions</MenuItem> */}
 
