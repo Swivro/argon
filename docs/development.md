@@ -2,24 +2,24 @@
 
 ## Running Argon
 
-Run development version
+### Run development version
 ```
 yarn run dev
 ```
 
 # Compile Argon
 
-## Build for Windows Machines
+### Build for Windows Machines
 ```
 yarn run compile-win32
 ```
 
-## Build for macOS
+### Build for macOS
 ```
 yarn run compile-darwin
 ```
 
-## Build for Linux
+### Build for Linux
 ```
 yarn run compile-linux
 ```
