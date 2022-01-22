@@ -1,4 +1,4 @@
-# Available keyboard shortcuts in Wexond
+# Available keyboard shortcuts in Argon
 
 ## Windows and Linux
 
