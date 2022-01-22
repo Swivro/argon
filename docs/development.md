@@ -1,7 +1,5 @@
 # Development
 
-## Running Argon
-
 ### Run development version
 ```
 yarn run dev
