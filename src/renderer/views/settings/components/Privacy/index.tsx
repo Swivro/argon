@@ -18,15 +18,14 @@ const DoNotTrackToggle = observer(() => {
   return (
     <Row onClick={onSwitchChange('doNotTrack')}>
       <Title>
-        Send a &quot;Do Not Track&quot; request with your browsing traffic. Not
-        recommended,{' '}
+        Send a &quot;Do Not Track&quot; request with your browsing traffic. {' '}
         <a
           href="https://spreadprivacy.com/do-not-track"
           target="_blank"
           rel="noopener noreferrer"
           onClick={(e) => e.stopPropagation()}
         >
-          see why
+          Not recommended.
         </a>
       </Title>
       <Control>
