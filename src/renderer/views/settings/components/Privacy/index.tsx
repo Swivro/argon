@@ -50,7 +50,7 @@ const GlobalPrivacyControlToggle = observer(() => {
         >
           Global Privacy Control
         </a>{' '}
-        request with your browsing traffic
+        request with your browsing traffic.
       </Title>
       <Control>
         <Switch value={globalPrivacyControl} />
