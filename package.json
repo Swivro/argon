@@ -1,6 +1,6 @@
 {
   "name": "argon",
-  "version": "6.4.4",
+  "version": "6.4.5",
   "sideEffects": false,
   "description": "Experience a modern privacy-respecting web browser, using ElectronJS.",
   "keywords": [
