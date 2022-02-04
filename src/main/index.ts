@@ -13,7 +13,7 @@ import { Application } from './application';
 
 export const isNightly = app.name === 'skye-nightly';
 
-app.name = isNightly ? 'Argon Nightly' : 'Argon';
+app.name = isNightly ? 'Swivro Browser Nightly' : 'Swivro Browser';
 
 (process.env as any)['ELECTRON_DISABLE_SECURITY_WARNINGS'] = true;
 

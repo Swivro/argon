@@ -1,4 +1,4 @@
-## Argon Browser
+## Swivro Browser
 
 Experience a next-generation privacy-respecting web browser, using ElectronJS, available for a variety of platforms - including Windows, Linux, and more.
 

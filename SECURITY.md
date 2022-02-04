@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Only the latest version of Argon is supported.
+Only the latest version of Swivro Browser is supported.
 
 ## Reporting a Vulnerability
 

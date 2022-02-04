@@ -1,4 +1,4 @@
-# Available keyboard shortcuts in Argon
+# Available keyboard shortcuts in Swivro Browser
 
 ## Windows and Linux
 

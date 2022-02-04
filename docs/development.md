@@ -5,7 +5,7 @@
 yarn run dev
 ```
 
-# Compile Argon
+# Compile Swivro Browser
 
 ### Build for Windows Machines
 ```
