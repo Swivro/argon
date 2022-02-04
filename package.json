@@ -1,6 +1,6 @@
 {
   "name": "swivrobrowser",
-  "version": "6.4.5",
+  "version": "6.4.6",
   "sideEffects": false,
   "description": "Experience a modern privacy-respecting web browser, using ElectronJS.",
   "keywords": [
