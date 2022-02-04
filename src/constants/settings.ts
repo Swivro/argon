@@ -82,7 +82,7 @@ export const DEFAULT_SETTINGS: ISettings = {
     type: 'empty',
   },
   tab: {
-    image: 'https://file.coffee/u/PkvsBQEcNgez2R.png',
+    image: 'https://file.coffee/u/39-ZqxoY0LGRCn.png',
     topSites: true,
     pinned: true,
   },
