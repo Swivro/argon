@@ -23,7 +23,7 @@
   },
   "linux": {
     "category": "Network",
-    "executableName": "argon",
+    "executableName": "Swivro Browser",
     "desktop": {
       "Name": "Argon Browser",
       "Comment": "Browse the Web",
