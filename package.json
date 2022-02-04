@@ -1,5 +1,5 @@
 {
-  "name": "argon",
+  "name": "swivrobrowser",
   "version": "6.4.5",
   "sideEffects": false,
   "description": "Experience a modern privacy-respecting web browser, using ElectronJS.",
@@ -11,15 +11,15 @@
     "mobx",
     "styled-components"
   ],
-  "homepage": "https://swivro.net/argon",
+  "homepage": "https://swivro.net/browser",
   "main": "build/main.bundle.js",
   "author": "Swivro <queries@swivro.net>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Swivro/argon.git"
+    "url": "git+https://github.com/Swivro/browser-desktop.git"
   },
   "bugs": {
-    "url": "https://github.com/Swivro/argon/issues"
+    "url": "https://github.com/Swivro/browser-desktop/issues"
   },
   "scripts": {
     "dev-renderer": "cross-env DEV=1 webpack serve --config webpack.config.renderer.js",
