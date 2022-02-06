@@ -183,9 +183,9 @@ export class Store {
   }
 
   public clear() {
-    this.items = [];
     (window as any).removeHistory(this.items.map((x) => x._id));
-  }
+      this.items = [];
+   }
 
   public removeItems(id: string[]) {
     this.items = this.items.filter((x) => id.indexOf(x._id) === -1);
