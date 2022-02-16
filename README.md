@@ -1,4 +1,4 @@
-# <span style="color:red">DEPRECATED</span>
+# <span style="color:red;">DEPRECATED</span>
 
 ## Swivro Browser
 
